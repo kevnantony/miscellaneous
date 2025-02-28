@@ -2,6 +2,8 @@
 
 [View Google Doc Version](https://docs.google.com/document/d/154R35DxuTyABwhDU7-_eVlaeRQ4hc-VWCZujx8o8vQo/edit?usp=sharing)
 
+---
+
 ### Section 1:
 
 1. In `_get_sweep_url()`, explain the purpose of the `urllib.parse.quote()` function calls. What is their effect on the URL generation?
