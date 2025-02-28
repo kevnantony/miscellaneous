@@ -18,6 +18,8 @@
    
    The `_WandbController` class manages sweep configuration and execution. It provides methods like `configure_search()` and `configure_stopping()` to set parameters and properties like `sweep_config` and `sweep_id` for programmatic control, connecting to or creating a sweep.
 
+---
+
 ### Section 2:
 
 4. What is the function of the `_parse_scheduled` method, and what is the significance of the `scheduled_list` variable within this method?
